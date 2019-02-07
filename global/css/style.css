@@ -59,6 +59,15 @@ p{
     transform: translate(-50%, -50%); 
 }
 
+.counter-item{
+    font-size:14px;
+    font-family:sans-serif;
+}
+
+.counter-item:hover{
+    color:red;
+}
+    
 /* Figure Image */
 figure {
   margin-bottom: 1.5em;
