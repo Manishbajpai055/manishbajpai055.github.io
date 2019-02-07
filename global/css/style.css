@@ -43,6 +43,10 @@ h2 {
   font-size: 22px;
 }
 
+p{
+    color:#fff;
+}
+
 .main-content {
     width: 250px;
     top: 38%;
